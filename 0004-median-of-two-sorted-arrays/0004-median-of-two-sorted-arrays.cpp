@@ -5,7 +5,6 @@ public:
         int n2 = nums2.size();
         double median;
         
-        // Ensure nums1 is the smaller array
         if (n1 > n2) {
             return findMedianSortedArrays(nums2, nums1);
         }
