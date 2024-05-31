@@ -2,19 +2,21 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         
-        unordered_map<int,int> majority;
-        int count = 0;
-        int condition = nums.size() >> 1;
+        int votes = 0;
+        int candidate = 0;
         
-        for (int num : nums) {
-            majority[num]++;
-        }
-        
-        for (const auto& [num,freq] : majority){
-            if(freq > condition){
-                return num;
+        for(int num:nums){
+            if (votes == 0){
+                candidate = num;
+            }
+            
+            if (candidate == num){
+                votes++;
+            }
+            else{
+                votes--;
             }
         }
-        return -1;
+        return candidate;
     }
 };
