@@ -7,29 +7,25 @@ public:
         long long j = (long long)m * k;
         if(j > n) return -1;
 
-        int left = INT_MAX;
-        int right = INT_MIN;
-
-        for(int day : bloomDay){
-            if(day < left) left = day;
-            if(day > right) right = day;
-        }
+        int left = *min_element(bloomDay.begin(), bloomDay.end());
+        int right = *max_element(bloomDay.begin(), bloomDay.end());
 
         int ans = -1;
+        
         while(left <= right){
             int mid = left + (right - left) / 2;
             int kcount = 0;
             int mcount = 0;
 
-            for(int day : bloomDay){
-                if (day <= mid){
+            for(int day : bloomDay) {
+                if(day <= mid) {
                     ++kcount;
-                } else {
-                    kcount = 0;
-                }
-
-                if(kcount == k){
-                    ++mcount;
+                    if(kcount == k) {
+                        ++mcount;
+                        kcount = 0;
+                    }
+                } 
+                else {
                     kcount = 0;
                 }
 
