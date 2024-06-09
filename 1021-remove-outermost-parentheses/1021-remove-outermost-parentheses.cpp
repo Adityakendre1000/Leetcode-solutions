@@ -1,6 +1,7 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
+        ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
         string result;
         int balance = 0;
         
