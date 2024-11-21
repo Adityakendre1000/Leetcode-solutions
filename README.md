@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
