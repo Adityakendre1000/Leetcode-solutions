@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimumArea(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
         int rows=grid.size();
         int columns=grid[0].size();
 
