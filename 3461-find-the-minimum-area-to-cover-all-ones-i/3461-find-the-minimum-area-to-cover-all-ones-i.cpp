@@ -12,10 +12,10 @@ public:
         for(int i = 0; i < rows; i++){
             for(int j = 0; j < columns; j++){
                 if(grid[i][j] == 1){
-                    if(x1>=i) x1=i;
-                    if(x2<=i) x2=i;
-                    if(y1>=j) y1=j;
-                    if(y2<=j) y2=j;
+                    if(x1>i) x1=i;
+                    if(x2<i) x2=i;
+                    if(y1>j) y1=j;
+                    if(y2<j) y2=j;
                 }
             }
         }
