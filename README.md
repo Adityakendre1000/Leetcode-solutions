@@ -15,6 +15,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
 |  |
