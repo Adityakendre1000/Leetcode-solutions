@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Linked List
 |  |
 | ------- |
