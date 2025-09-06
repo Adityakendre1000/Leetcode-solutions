@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
