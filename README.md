@@ -33,6 +33,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
