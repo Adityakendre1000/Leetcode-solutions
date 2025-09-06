@@ -47,17 +47,25 @@ public:
         //     }
         // }
 
-        unordered_map<ListNode*,int> visited;
-        while (x) {
-            visited[x] = 1;
-            x = x->next;
-        }
+        // unordered_map<ListNode*,int> visited;
+        // while (x) {
+        //     visited[x]++;
+        //     x = x->next;
+        // }
 
-        while (y) {
-            if (visited[y] == 1) return y;  // found intersection
-            y = y->next;
-        }
+        // while (y) {
+        //     visited[y]++;
+        //     y = y->next;
+        // }
 
-        return NULL;
+        // for (auto &visit : visited) {
+        //     if (visit.second > 1) return visit.first;
+        // }
+
+        while(x!=y){
+            x = (x == nullptr) ? headB : x->next;
+            y = (y == nullptr) ? headA : y->next;
+        }
+        return x; 
     }
 };
