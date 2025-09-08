@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> getNoZeroIntegers(int n) {
-
+        ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
         for(int i = n; i >= 1; i--){
             if((i%10) != 0){
                 int a = n-i;
