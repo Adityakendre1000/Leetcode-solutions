@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Linked List
