@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
