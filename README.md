@@ -125,4 +125,9 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
