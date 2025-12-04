@@ -68,6 +68,7 @@ public:
                 }
             }
             if(b==0) x = false;
+            x=false;
 
         }
         return c;
