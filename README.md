@@ -47,11 +47,13 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
