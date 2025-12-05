@@ -20,6 +20,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sorting
@@ -69,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Database
 |  |
 | ------- |
