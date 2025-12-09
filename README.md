@@ -22,6 +22,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3583-count-special-triplets](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3583-count-special-triplets](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
