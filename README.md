@@ -19,6 +19,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -30,6 +31,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
 |  |
 | ------- |
