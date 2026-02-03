@@ -24,6 +24,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3583-count-special-triplets](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3583-count-special-triplets) |
+| [3637-trionic-array-i](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sorting
 |  |
