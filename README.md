@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0498-diagonal-traverse](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -48,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
