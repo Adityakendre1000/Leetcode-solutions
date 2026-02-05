@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
