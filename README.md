@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0125-valid-palindrome) |
