@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -74,6 +76,7 @@
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0169-majority-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3583-count-special-triplets](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Math
@@ -162,5 +165,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0169-majority-element) |
 | [3583-count-special-triplets](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3583-count-special-triplets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
