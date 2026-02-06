@@ -1,34 +1,27 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int longest = 0;
         
-        unordered_map<int,bool> seq;
-        
-        for (int num : nums){
-            seq[num] = false;
-        }
-        
-        for (const auto& [num,val] : seq){
-            int currlen = 1;
-            int a = 1;
-            seq[num] = true;
-            while(seq.find(num+a) != seq.end() && seq[num+a] == false){
-                seq[num+a] = true;
-                a++;
-                currlen++;
+        unordered_set<int> st(nums.begin(),nums.end());
+        int maxL = 0;
+
+        for(int n : st){
+            if(!st.count(n-1)){
+                int current = n;
+                int length = 1;
+
+                while(st.count(current+1)){
+                    current++;
+                    length++;
+                }
+                maxL = max(length,maxL);
+
             }
-            
-            int b = 1;
-            while(seq.find(num-b) != seq.end() && seq[num-b] == false){
-                seq[num-b] = true;
-                b++;
-                currlen++;
-            }
-            
-            longest = max(longest,currlen);
-            
+
+
         }
-        return longest;
+
+        return maxL;
+
     }
 };
