@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
