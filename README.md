@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -110,6 +112,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Bit Manipulation
 |  |
