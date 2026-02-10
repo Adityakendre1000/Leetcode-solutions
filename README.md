@@ -196,4 +196,20 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityakendre1000/Leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
